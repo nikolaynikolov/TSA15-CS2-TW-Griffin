@@ -9,7 +9,7 @@ Please define and implement the following assets in your project:
 * At least __3 existing .NET classes__ (like System.Math or System.DateTime)
 * At least __2 exception handlings__
 * At least __1 use of external text file__
-##Additional Requirements
+## Additional Requirements
 * Obligatory use **Git** to keep your source code and for team collaboration (you might use http://github.com or http://code.google.com). SVN or TFS are not allowed. **Use Git. To understand better what Source Control Systems are, you can watch this lecture: https://www.youtube.com/watch?v=kFvayHoUIPg
 * Provide documentation for **your application** (more information below).
 ## Optional Requirements
