@@ -10,6 +10,11 @@ namespace ReadingGriffin
     {
         static void Main()
         {
+            Frogger();
+        }
+
+        static void Frogger()
+        {
             Console.BufferHeight = Console.WindowHeight;
             Console.BufferWidth = Console.WindowWidth;
             int position = 0;
